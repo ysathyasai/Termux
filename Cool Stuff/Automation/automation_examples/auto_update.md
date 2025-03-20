@@ -174,4 +174,5 @@ If the update fails, check the following:
 
 ---
 
+## Conclusion
 By following this guide, you will have a reliable automated update system for your Termux environment. This ensures that your packages and system remain up-to-date, secure, and efficient.
