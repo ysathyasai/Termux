@@ -277,7 +277,7 @@ To clone and set up the repository:
 
 ```sh
 # Clone the repository
-git clone https://github.com/Enjoy-pandugo-cloud/Termux.git
+git clone https://github.com/ysathyasai/Termux.git
 
 # Navigate to the directory
 cd Termux
