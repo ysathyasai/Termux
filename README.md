@@ -1,5 +1,9 @@
 # Termux Guide Collection: The Ultimate Resource for Android Power Users
 
+<div align="center">
+    <img width="400" height="400" alt="termux com_Logo_4e88906b-f44b-425f-b329-734277b93872" src="https://github.com/user-attachments/assets/87df946c-3d81-40a5-ada7-52e344d5ffa1" /> 
+</div>
+
 Welcome to the **Termux Guide Collection**, a comprehensive repository designed to help you unlock the full potential of Termux on your Android device. Whether you're a developer, network engineer, security enthusiast, or just someone who loves tinkering with technology, this repository has everything you need to get started and master Termux.
 
 ---
