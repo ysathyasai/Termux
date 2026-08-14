@@ -1,3 +1,5 @@
+
+
 # Termux Guide Collection: The Ultimate Resource for Android Power Users
 
 <div align="center">
@@ -267,7 +269,7 @@ ufw enable
 ssh user@hostname -p 8022
 ```
 
-### Access Files via FTP
+### Access Files via SSH
 ```sh
 pkg install openssh
 sshd
